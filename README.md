@@ -1,4 +1,4 @@
-# Deep-AI
+# DeepCore-AI
 
 > A collection of machine learning & deep learning projects and notebooks — regression, classification, explainable AI, and NLP fine‑tuning experiments.
 
@@ -9,7 +9,7 @@
 
 ## Overview
 
-This repository (Deep-AI) contains a set of data science and deep learning projects collected as reproducible Jupyter notebooks and small helper scripts. Projects range from classical regression and PCA analyses to explainable AI (XAI) notebooks and a Hugging Face BERT fine‑tuning workflow for text classification.
+This repository (DeepCore-AI) contains a set of data science and deep learning projects collected as reproducible Jupyter notebooks and small helper scripts. Projects range from classical regression and PCA analyses to explainable AI (XAI) notebooks and a Hugging Face BERT fine‑tuning workflow for text classification.
 
 Use this README to quickly understand each component, how to run the notebooks locally/Colab/Kaggle, and how to reproduce training and evaluation steps.
 
@@ -18,7 +18,7 @@ Use this README to quickly understand each component, how to run the notebooks l
 ## Repo structure (high level)
 
 ```
-Deep-AI/
+DeepCore-AI/
 ├─ Linear Regression Project of Price Predication/   # linear regression project(s)
 ├─ MultiVariablePredication/                         # multivariable regression
 ├─ DiaXAi_MODEL_+_XAI.ipynb                           # model + explainability notebook
@@ -41,8 +41,8 @@ Deep-AI/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/Mr-Faizan-Asim/Deep-AI.git
-cd Deep-AI
+git clone https://github.com/Mr-Faizan-Asim/DeepCore-AI.git
+cd DeepCore-AI
 ```
 
 2. Create an isolated Python environment (recommended):
