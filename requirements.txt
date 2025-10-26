@@ -1,0 +1,4 @@
+sentence-transformers>=2.2.2
+hnswlib>=0.7.0
+numpy
+flask
